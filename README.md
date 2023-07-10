@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **moonlike.tech@gmail.com**
 
-- 🐳 Check my coding challenge here ** https://icodethis.com/moonlike **
+- 🐳 Check my coding challenge here **https://icodethis.com/moonlike**
 
 - ⚡ **I really good at designing**
 
