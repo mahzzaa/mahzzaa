@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **3D Model of Car in Blender**
 
-- 🌱 I’m currently learning **Three js, React**
+- 🌱 I’m currently learning **Three js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahzzaa](https://github.com/mahzzaa)
 
