@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm moonlike</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently working on **3D Model of Car in Blender**
+- 🔭 I’m currently working on **3D Model of Car in Blender and Front-end Projects**
 
 - 🌱 I’m currently learning **Three js**
 
