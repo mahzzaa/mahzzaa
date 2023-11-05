@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahzzaa](https://github.com/mahzzaa)
 
-- 💬 Ask me about **Tailwind, css**
+- 💬 Ask me about **Tailwind, css , Skeleton , Svelte**
 
 - 📫 How to reach me **moonlike.tech@gmail.com**
 
