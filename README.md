@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Moonlike</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🔭 I’m currently working on **A Company Website**
+- 🔭 I’m currently working as **A Full-Stack Web Development**
 
-- 🌱 I’m currently learning **Svelte, Svelte Kit**
-
+- 🌱 I’m currently working on **ShamiMah Website**
+<!--
 - 👨‍💻 All of my projects are available at [https://moonlike.surge.sh/](https://moonlike.surge.sh/)
-
-- 💬 Ask me about **Tailwind, Skeleton, CSS, React, Next.js, GSAP**
+-->
+- 💬 Ask me about **Svelte , Svelte Kit ,Tailwind, Skeleton, CSS, React, GSAP , Animation , Art , Digital Art**
 
 - 📫 How to reach me **https://moonlike.surge.sh/**
-
+<!--
 - 📄 Know about my experiences [https://moonlike.surge.sh/](https://moonlike.surge.sh/)
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/moonlike_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moonlike_tech" height="30" width="40" /></a>
