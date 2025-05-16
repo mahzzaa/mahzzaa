@@ -18,11 +18,16 @@
 
 ---
 
-### 🌐 Find Me Here
+### 🌐 Portfolio
+- 🪐 **Current Portfolio** → [moonlike-portfolio.vercel.app](https://moonlike-portfolio.vercel.app/)
+- 🌿 **Old Portfolio (Legacy)** → [moonlike.surge.sh](https://moonlike.surge.sh/)
+
+---
+
+### 📲 Connect With Me
 <p align="center">
   <a href="https://twitter.com/moonlike_tech"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
   <a href="https://instagram.com/moonliketech"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://moonlike.surge.sh/"><img src="https://img.shields.io/badge/Portfolio-Moonlike.surge.sh-7b3f61?style=flat-square&logo=vercel" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -34,7 +39,7 @@
 
 ---
 
-### 📊 My Language Usage
+### 📊 Language Usage
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahzzaa&layout=compact&theme=radical" alt="Top Languages" />
 </p>
