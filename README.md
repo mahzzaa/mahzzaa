@@ -10,7 +10,7 @@
 
 ### 🚀 Current Focus
 - 🌿 Building **ShamiMah Website** — an emotional art & sticker project
-- 🛠️ Working as a **Full-Stack Web Developer** in <a href="thebirbnest.com" >**TheBirbNest**</a>
+- 🛠️ Working as a **Full-Stack Web Developer** in <a href="HTTP://thebirbnest.com" target="_blank">**TheBirbNest**</a>
 
 ### 💬 Ask Me About
 `Svelte` · `SvelteKit` · `TailwindCSS` · `Skeleton` · `CSS` · `React` · `GSAP`  
