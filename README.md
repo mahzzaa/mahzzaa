@@ -47,5 +47,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F779AA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Frontend+Developer+%7C+Designer+%7C+Dreamer;Crafting+Art+into+Web+Experiences;Always+Moonlike" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F779AA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Frontend+Developer+%7C+Designer;Crafting+Art+into+Web+Experiences;Always+Moonlike" alt="Typing SVG" />
 </p>
