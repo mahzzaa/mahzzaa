@@ -40,18 +40,7 @@ I believe code can be both logical and beautiful.
 
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌙 What I Build</h3>
-      <p>Expressive interfaces, polished landing pages, playful product experiences, and frontend systems that still feel warm and easy to use.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ What I Care About</h3>
-      <p>Motion rhythm, visual pacing, atmospheric UI, responsive structure, and details that make a product feel crafted instead of assembled.</p>
-    </td>
-  </tr>
-</table>
+
 
 ## Featured Projects
 
@@ -75,12 +64,6 @@ I believe code can be both logical and beautiful.
   </tr>
 </table>
 
-## More Work
-
-- [The Birb Nest](https://www.thebirbnest.com/) — sleek crypto community platform built with Svelte, SvelteKit, Tailwind CSS, and Skeleton.
-- [Hollow Knight](https://hollow-knight-theta.vercel.app/) — a game-inspired site built with React, Tailwind CSS, and GSAP.
-- [Tradle.online](https://tradle.online/) — a gamified trading challenge app using real market data and TradingView charts.
-- [Real Estate](https://architecture-olive.vercel.app/) — a modern property browsing platform built with HTML, CSS, JavaScript, and animation.
 
 ## Toolbox
 
