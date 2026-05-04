@@ -1,29 +1,41 @@
-![Moonlike profile hero](assets/moonlike-hero.svg)
-
 <div align="center">
 
-# Moonlike
+## Moonlike / Mahsa Mir
 
-### Frontend Developer • Designer • Digital Artist
+### Building thoughtful web experiences.
 
 <p>
-Building playful, atmospheric web experiences where motion, art direction, and frontend structure all support each other.
+Hi, I'm Mahsa — a web developer with a love for soft colors, clean design, and thoughtful details.
+I enjoy turning ideas into cozy digital spaces that feel warm, elegant, and easy to use.
+I believe code can be both logical and beautiful.
 </p>
 
 <p>
-  <a href="https://img.shields.io/badge/Motion--first-F7A8B8?style=for-the-badge&logoColor=1f1f1f&labelColor=FCE7EC"><img alt="Motion first" src="https://img.shields.io/badge/Motion--first-F7A8B8?style=for-the-badge&logoColor=1f1f1f&labelColor=FCE7EC" /></a>
-  <a href="https://img.shields.io/badge/Design%20Systems-B8E0C8?style=for-the-badge&logoColor=1f1f1f&labelColor=EFFAF2"><img alt="Design Systems" src="https://img.shields.io/badge/Design%20Systems-B8E0C8?style=for-the-badge&logoColor=1f1f1f&labelColor=EFFAF2" /></a>
-  <a href="https://img.shields.io/badge/Creative%20Frontend-F6C177?style=for-the-badge&logoColor=1f1f1f&labelColor=FFF1D8"><img alt="Creative Frontend" src="https://img.shields.io/badge/Creative%20Frontend-F6C177?style=for-the-badge&logoColor=1f1f1f&labelColor=FFF1D8" /></a>
+  <img alt="Istanbul" src="https://img.shields.io/badge/Istanbul-Turkey-F7C6A3?style=for-the-badge&labelColor=FFF4E8&color=F7C6A3" />
+  <img alt="Computer Engineering" src="https://img.shields.io/badge/BSc-Computer%20Engineering-C7E8CA?style=for-the-badge&labelColor=F4FFF2&color=C7E8CA" />
+  <img alt="Full-stack Developer" src="https://img.shields.io/badge/Role-Full--stack%20Dev-C9D8FF?style=for-the-badge&labelColor=F5F7FF&color=C9D8FF" />
+</p>
+
+<p>
+  <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-FF8A65?style=flat-square&logo=svelte&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-7FDBFF?style=flat-square&logo=react&logoColor=083344" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-8FD3FF?style=flat-square&logo=tailwindcss&logoColor=0C4A6E" />
+  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-CDEB75?style=flat-square&logo=greensock&logoColor=314200" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F6A5C0?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-F9C27B?style=flat-square&logo=blender&logoColor=5B2C00" />
+  <img alt="Procreate" src="https://img.shields.io/badge/Procreate-BFE7FF?style=flat-square&logoColor=0B3C5D" />
 </p>
 
 <p>
   <a href="https://moonlike-portfolio.vercel.app/">Portfolio</a>
   ·
-  <a href="https://moonlike.surge.sh/">Legacy</a>
+  <a href="https://www.linkedin.com/in/mahsa-mir-863632201/">LinkedIn</a>
   ·
-  <a href="https://twitter.com/moonlike_tech">Twitter</a>
+  <a href="https://x.com/moonlike_tech">X</a>
   ·
-  <a href="https://instagram.com/moonliketech">Instagram</a>
+  <a href="https://www.figma.com/@mahsamirmiran">Figma</a>
+  ·
+  <a href="https://github.com/mahzzaa">GitHub</a>
 </p>
 
 </div>
@@ -31,64 +43,73 @@ Building playful, atmospheric web experiences where motion, art direction, and f
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌿 Current Focus</h3>
-      <p><strong>ShamiMah Website</strong> is where I’m shaping a softer, more emotional digital world through illustration, stickers, storefront storytelling, and feeling-first UI decisions.</p>
+      <h3>🌙 What I Build</h3>
+      <p>Expressive interfaces, polished landing pages, playful product experiences, and frontend systems that still feel warm and easy to use.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌙 What I Like Building</h3>
-      <p>Expressive landing pages, polished component systems, art-forward interfaces, and motion that guides the eye without overwhelming the experience.</p>
+      <h3>✨ What I Care About</h3>
+      <p>Motion rhythm, visual pacing, atmospheric UI, responsive structure, and details that make a product feel crafted instead of assembled.</p>
     </td>
   </tr>
 </table>
 
-## Selected Work
+## Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌿 ShamiMah Website</h3>
-      <p>An emotional art and sticker project designed as a soft, story-led web experience.</p>
-      <p><strong>Focus:</strong> atmospheric UI, visual storytelling, storefront mood, and frontend craft with personality.</p>
+    <td width="33%" valign="top">
+      <h3>🔒 <a href="https://lockin-lemon.vercel.app/">LockIn</a></h3>
+      <p>A social focus app built for hard focus with timers, Focus Rooms, live leaderboards, and accountability in one place.</p>
+      <p><strong>Stack:</strong> Svelte, Lucide, PWA, Supabase</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🪐 <a href="https://moonlike-portfolio.vercel.app/">Moonlike Portfolio</a></h3>
-      <p>A living portfolio for experiments in layout, motion, interactive presentation, and visual identity.</p>
-      <p><strong>Focus:</strong> animation rhythm, branded interfaces, editorial composition, and frontend polish.</p>
+    <td width="33%" valign="top">
+      <h3>⚡ <a href="https://open-power.co.uk/">OpenPower Website</a></h3>
+      <p>A fast, responsive marketing site with a clear value proposition, clean UI, and lead-capture pages ready to scale.</p>
+      <p><strong>Stack:</strong> Svelte, Skeleton, Tailwind CSS</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🍎 <a href="https://apple-website-kappa-ten.vercel.app/">Titanium Apple</a></h3>
+      <p>An immersive Apple showcase with smooth 3D interactions and animation-led presentation.</p>
+      <p><strong>Stack:</strong> React, Three.js, Tailwind CSS, GSAP</p>
     </td>
   </tr>
 </table>
+
+## More Work
+
+- [The Birb Nest](https://www.thebirbnest.com/) — sleek crypto community platform built with Svelte, SvelteKit, Tailwind CSS, and Skeleton.
+- [Hollow Knight](https://hollow-knight-theta.vercel.app/) — a game-inspired site built with React, Tailwind CSS, and GSAP.
+- [Tradle.online](https://tradle.online/) — a gamified trading challenge app using real market data and TradingView charts.
+- [Real Estate](https://architecture-olive.vercel.app/) — a modern property browsing platform built with HTML, CSS, JavaScript, and animation.
 
 ## Toolbox
 
 <p>
-  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF7F50?style=flat-square&logo=svelte&logoColor=white" />
-  <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-2B2B2B?style=flat-square&logo=svelte&logoColor=FF7F50" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0B1020" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-7DD3FC?style=flat-square&logo=tailwindcss&logoColor=082F49" />
-  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-B5E853?style=flat-square&logo=greensock&logoColor=203300" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F78FB3?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-F6B26B?style=flat-square&logo=blender&logoColor=3A1D00" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=3B2F00" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-8FB8FF?style=flat-square&logo=typescript&logoColor=0B2A53" />
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF9B73?style=flat-square&logo=svelte&logoColor=5A1C00" />
+  <img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-2C2C2C?style=flat-square&logo=svelte&logoColor=FF9B73" />
+  <img alt="React" src="https://img.shields.io/badge/React-A7ECFF?style=flat-square&logo=react&logoColor=0A3A4A" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FFC09F?style=flat-square&logo=swift&logoColor=6A2400" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-96D8FF?style=flat-square&logo=tailwindcss&logoColor=0B4D6E" />
+  <img alt="Skeleton" src="https://img.shields.io/badge/Skeleton-E9D5FF?style=flat-square&logoColor=4C1D95" />
+  <img alt="GSAP" src="https://img.shields.io/badge/GSAP-D8F28A?style=flat-square&logo=greensock&logoColor=334500" />
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-DADADA?style=flat-square&logo=threedotjs&logoColor=222222" />
 </p>
 
 <p>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-8EC5FF?style=flat-square&logo=css&logoColor=0F2747" />
-  <img alt="Design Systems" src="https://img.shields.io/badge/Design%20Systems-C9B6FF?style=flat-square&logoColor=2F1A58" />
-  <img alt="UI Motion" src="https://img.shields.io/badge/UI%20Motion-FFB7C5?style=flat-square&logoColor=4A1F2D" />
-  <img alt="Digital Art" src="https://img.shields.io/badge/Digital%20Art-FFD56F?style=flat-square&logoColor=4C3300" />
-  <img alt="Creative Frontend" src="https://img.shields.io/badge/Creative%20Frontend-A7E3D7?style=flat-square&logoColor=113B35" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-A7F3C8?style=flat-square&logo=supabase&logoColor=065F46" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-B7D0FF?style=flat-square&logo=postgresql&logoColor=1E3A8A" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-CDE7F7?style=flat-square&logo=mysql&logoColor=0F3A4D" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-F7B6D2?style=flat-square&logo=graphql&logoColor=7A1148" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F8ABC4?style=flat-square&logo=figma&logoColor=FFFFFF" />
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-F7C27E?style=flat-square&logo=blender&logoColor=5B2C00" />
+  <img alt="Procreate" src="https://img.shields.io/badge/Procreate-B7E6FF?style=flat-square&logoColor=0F3D5E" />
+  <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-D7E1FF?style=flat-square&logoColor=233A95" />
 </p>
 
-I like interfaces that feel composed, tactile, and alive: systems with personality, landing pages with narrative flow, and details that make the frontend feel crafted rather than assembled.
+## Currently
 
-## Design Notes
-
-- I usually start from mood and composition, then tighten everything into a reusable system.
-- I care a lot about animation rhythm, hover feel, and visual pacing.
-- I’m most at home where design, code, and digital art overlap.
-
-## Find Me
-
-- Portfolio: [moonlike-portfolio.vercel.app](https://moonlike-portfolio.vercel.app/)
-- Legacy portfolio: [moonlike.surge.sh](https://moonlike.surge.sh/)
-- Twitter: [@moonlike_tech](https://twitter.com/moonlike_tech)
-- Instagram: [@moonliketech](https://instagram.com/moonliketech)
+- Crafting interfaces, wiring resilient services, and sharpening the tools that keep everything moving.
+- Open to collaborations, product builds, and design-minded frontend work.
+- DMs are open everywhere.
