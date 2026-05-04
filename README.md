@@ -68,9 +68,9 @@ I believe code can be both logical and beautiful.
       <p><strong>Stack:</strong> Svelte, Skeleton, Tailwind CSS</p>
     </td>
     <td width="33%" valign="top">
-      <h3>🍎 <a href="https://apple-website-kappa-ten.vercel.app/">Titanium Apple</a></h3>
-      <p>An immersive Apple showcase with smooth 3D interactions and animation-led presentation.</p>
-      <p><strong>Stack:</strong> React, Three.js, Tailwind CSS, GSAP</p>
+      <h3>🐦 <a href="https://www.thebirbnest.com/">The Birb Nest</a></h3>
+      <p>A sleek platform for TheBirbNest crypto community, bringing together resources, insights, and tools in one place.</p>
+      <p><strong>Stack:</strong> Svelte, SvelteKit, Tailwind CSS, Skeleton</p>
     </td>
   </tr>
 </table>
@@ -107,9 +107,3 @@ I believe code can be both logical and beautiful.
   <img alt="Procreate" src="https://img.shields.io/badge/Procreate-B7E6FF?style=flat-square&logoColor=0F3D5E" />
   <img alt="Aseprite" src="https://img.shields.io/badge/Aseprite-D7E1FF?style=flat-square&logoColor=233A95" />
 </p>
-
-## Currently
-
-- Crafting interfaces, wiring resilient services, and sharpening the tools that keep everything moving.
-- Open to collaborations, product builds, and design-minded frontend work.
-- DMs are open everywhere.
