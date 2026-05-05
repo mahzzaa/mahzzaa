@@ -47,7 +47,7 @@ I believe code can be both logical and beautiful.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🔒 <a href="https://lockin-lemon.vercel.app/">LockIn</a></h3>
+      <h3>🔒 <a href="https://lockinn.space/">LockIn</a></h3>
       <p>A social focus app built for hard focus with timers, Focus Rooms, live leaderboards, and accountability in one place.</p>
       <p><strong>Stack:</strong> Svelte, Lucide, PWA, Supabase</p>
     </td>
