@@ -45,7 +45,7 @@ Hi, I'm Mahsa — a software developer building warm, thoughtful digital spaces 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://exort.dev/">Exort</a></h3>
+      <h3>▣ <a href="https://exort.dev/">Exort</a></h3>
       <p>
         <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-E9D5FF?style=flat-square&labelColor=D8B4FE&color=F5EDFF" />
         <img alt="AI workspace" src="https://img.shields.io/badge/AI%20Workspace-D8F28A?style=flat-square&labelColor=CDEB75&color=F3FFD0" />
@@ -55,7 +55,7 @@ Hi, I'm Mahsa — a software developer building warm, thoughtful digital spaces 
       <p><a href="https://exort.dev/">Live</a> · <a href="https://github.com/Razz19/Exort">GitHub</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://open-power.co.uk/">OpenPower Website</a></h3>
+      <h3>▣ <a href="https://open-power.co.uk/">OpenPower Website</a></h3>
       <p>
         <img alt="Marketing site" src="https://img.shields.io/badge/Marketing%20Site-F4FFF2?style=flat-square&labelColor=C7E8CA&color=F4FFF2" />
         <img alt="Responsive" src="https://img.shields.io/badge/Responsive-BFE7FF?style=flat-square&labelColor=8FD3FF&color=BFE7FF" />
@@ -67,7 +67,7 @@ Hi, I'm Mahsa — a software developer building warm, thoughtful digital spaces 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐦 <a href="https://www.thebirbnest.com/">The Birb Nest</a></h3>
+      <h3>▣ <a href="https://www.thebirbnest.com/">The Birb Nest</a></h3>
       <p>
         <img alt="Community platform" src="https://img.shields.io/badge/Community%20Platform-F5F7FF?style=flat-square&labelColor=C9D8FF&color=F5F7FF" />
         <img alt="Crypto" src="https://img.shields.io/badge/Crypto-F6A5C0?style=flat-square&labelColor=F6A5C0&color=FFEAF1" />
@@ -77,7 +77,7 @@ Hi, I'm Mahsa — a software developer building warm, thoughtful digital spaces 
       <p><a href="https://www.thebirbnest.com/">Live</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔒 <a href="https://lockinn.space/">LockIn</a></h3>
+      <h3>▣ <a href="https://lockinn.space/">LockIn</a></h3>
       <p>
         <img alt="Focus app" src="https://img.shields.io/badge/Focus%20App-FFF4E8?style=flat-square&labelColor=F7C6A3&color=FFF4E8" />
         <img alt="PWA" src="https://img.shields.io/badge/PWA-C9D8FF?style=flat-square&labelColor=8FA8FF&color=C9D8FF" />
