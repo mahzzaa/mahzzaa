@@ -46,20 +46,26 @@ I believe code can be both logical and beautiful.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>🔒 <a href="https://lockinn.space/">LockIn</a></h3>
       <p>A social focus app built for hard focus with timers, Focus Rooms, live leaderboards, and accountability in one place.</p>
       <p><strong>Stack:</strong> Svelte, Lucide, PWA, Supabase</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>⚡ <a href="https://open-power.co.uk/">OpenPower Website</a></h3>
       <p>A fast, responsive marketing site with a clear value proposition, clean UI, and lead-capture pages ready to scale.</p>
       <p><strong>Stack:</strong> Svelte, Skeleton, Tailwind CSS</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <h3>🐦 <a href="https://www.thebirbnest.com/">The Birb Nest</a></h3>
       <p>A sleek platform for TheBirbNest crypto community, bringing together resources, insights, and tools in one place.</p>
       <p><strong>Stack:</strong> Svelte, SvelteKit, Tailwind CSS, Skeleton</p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>🤖 <a href="https://exort.dev/">Exort</a></h3>
+      <p>An open-source AI coding workspace for microcontroller development, with tools to write, upload, debug, and iterate on embedded code.</p>
+      <p><strong>Stack:</strong> Svelte, TypeScript, Electron, OpenCode</p>
+      <p><a href="https://github.com/Razz19/Exort">GitHub</a></p>
     </td>
   </tr>
 </table>
