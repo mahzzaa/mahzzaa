@@ -1,11 +1,18 @@
 <div align="center">
 
+<pre>
+┌───────────────────────────────┐
+│        MOONLIKE.EXE           │
+│   soft code + tiny details    │
+└───────────────────────────────┘
+</pre>
+
 ## Moonlike / Mahsa Mir
 
-### Building thoughtful web experiences.
+### Software developer building thoughtful web experiences.
 
 <p>
-Hi, I'm Mahsa — a web developer shaping warm digital spaces with code + tiny details.
+Hi, I'm Mahsa — a software developer building warm, thoughtful digital spaces with soft colors, clean code + tiny details.
 </p>
 
 <p>
@@ -38,57 +45,64 @@ Hi, I'm Mahsa — a web developer shaping warm digital spaces with code + tiny d
 
 </div>
 
+<br />
 
+<pre>
+> open featured_projects
+</pre>
 
 ## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://exort.dev/">Exort</a></h3>
+      <h3>▣ <a href="https://exort.dev/">Exort</a></h3>
       <p>
         <img alt="Open source" src="https://img.shields.io/badge/Open%20Source-E9D5FF?style=flat-square&labelColor=D8B4FE&color=F5EDFF" />
         <img alt="AI workspace" src="https://img.shields.io/badge/AI%20Workspace-D8F28A?style=flat-square&labelColor=CDEB75&color=F3FFD0" />
       </p>
       <p>An open-source AI coding workspace for microcontroller development, with tools to write, upload, debug, and iterate on embedded code.</p>
       <p><strong>Stack:</strong> Svelte, TypeScript, Electron, OpenCode</p>
-      <p><a href="https://exort.dev/">Live</a> · <a href="https://github.com/Razz19/Exort">GitHub</a></p>
+      <p>[ <a href="https://exort.dev/">Live</a> ] [ <a href="https://github.com/Razz19/Exort">GitHub</a> ]</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://open-power.co.uk/">OpenPower Website</a></h3>
+      <h3>▣ <a href="https://open-power.co.uk/">OpenPower Website</a></h3>
       <p>
         <img alt="Marketing site" src="https://img.shields.io/badge/Marketing%20Site-F4FFF2?style=flat-square&labelColor=C7E8CA&color=F4FFF2" />
         <img alt="Responsive" src="https://img.shields.io/badge/Responsive-BFE7FF?style=flat-square&labelColor=8FD3FF&color=BFE7FF" />
       </p>
       <p>A fast, responsive marketing site with a clear value proposition, clean UI, and lead-capture pages ready to scale.</p>
       <p><strong>Stack:</strong> Svelte, Skeleton, Tailwind CSS</p>
-      <p><a href="https://open-power.co.uk/">Live</a></p>
+      <p>[ <a href="https://open-power.co.uk/">Live</a> ]</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐦 <a href="https://www.thebirbnest.com/">The Birb Nest</a></h3>
+      <h3>▣ <a href="https://www.thebirbnest.com/">The Birb Nest</a></h3>
       <p>
         <img alt="Community platform" src="https://img.shields.io/badge/Community%20Platform-F5F7FF?style=flat-square&labelColor=C9D8FF&color=F5F7FF" />
         <img alt="Crypto" src="https://img.shields.io/badge/Crypto-F6A5C0?style=flat-square&labelColor=F6A5C0&color=FFEAF1" />
       </p>
       <p>A sleek platform for TheBirbNest crypto community, bringing together resources, insights, and tools in one place.</p>
       <p><strong>Stack:</strong> Svelte, SvelteKit, Tailwind CSS, Skeleton</p>
-      <p><a href="https://www.thebirbnest.com/">Live</a></p>
+      <p>[ <a href="https://www.thebirbnest.com/">Live</a> ]</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔒 <a href="https://lockinn.space/">LockIn</a></h3>
+      <h3>▣ <a href="https://lockinn.space/">LockIn</a></h3>
       <p>
         <img alt="Focus app" src="https://img.shields.io/badge/Focus%20App-FFF4E8?style=flat-square&labelColor=F7C6A3&color=FFF4E8" />
         <img alt="PWA" src="https://img.shields.io/badge/PWA-C9D8FF?style=flat-square&labelColor=8FA8FF&color=C9D8FF" />
       </p>
       <p>A social focus app built for hard focus with timers, Focus Rooms, live leaderboards, and accountability in one place.</p>
       <p><strong>Stack:</strong> Svelte, Lucide, PWA, Supabase</p>
-      <p><a href="https://lockinn.space/">Live</a></p>
+      <p>[ <a href="https://lockinn.space/">Live</a> ]</p>
     </td>
   </tr>
 </table>
 
+<pre>
+> load toolbox
+</pre>
 
 ## Toolbox
 
