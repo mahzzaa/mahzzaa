@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Mahsa Mir, full-stack developer building thoughtful web experiences."
+    />
+    <title>Moonlike / Mahsa Mir</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <canvas id="shader-bg" aria-hidden="true"></canvas>
+    <div class="page">
+      <header class="site-header">
+        <a class="brand" href="#top" aria-label="Moonlike home">Moonlike</a>
+        <nav aria-label="Primary navigation">
+          <a href="#work">Work</a>
+          <a href="#toolbox">Toolbox</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </header>
+
+      <main id="top">
+        <section class="hero" aria-labelledby="hero-title">
+          <p class="eyebrow">Istanbul, Turkey</p>
+          <h1 id="hero-title">Mahsa Mir</h1>
+          <p class="lede">
+            Full-stack developer building warm, thoughtful digital spaces with
+            clean code, soft details, and expressive interactive systems.
+          </p>
+          <div class="actions" aria-label="Profile links">
+            <a class="button primary" href="https://moonlike-portfolio.vercel.app/">Portfolio</a>
+            <a class="button" href="https://github.com/mahzzaa">GitHub</a>
+            <a class="button" href="https://www.linkedin.com/in/mahsa-mir-863632201/">LinkedIn</a>
+          </div>
+        </section>
+
+        <section class="section" id="work" aria-labelledby="work-title">
+          <div class="section-heading">
+            <p class="eyebrow">Featured Projects</p>
+            <h2 id="work-title">Selected work</h2>
+          </div>
+          <div class="project-grid">
+            <article class="project-card">
+              <div>
+                <p class="project-kicker">Open Source / AI Workspace</p>
+                <h3>Exort</h3>
+                <p>
+                  An AI coding workspace for microcontroller development, with
+                  tools to write, upload, debug, and iterate on embedded code.
+                </p>
+              </div>
+              <div class="project-footer">
+                <span>Svelte / TypeScript / Electron</span>
+                <a href="https://exort.dev/">Live</a>
+              </div>
+            </article>
+
+            <article class="project-card">
+              <div>
+                <p class="project-kicker">Marketing Site / Responsive</p>
+                <h3>OpenPower Website</h3>
+                <p>
+                  A fast marketing site with a clear value proposition, clean UI,
+                  and lead-capture pages ready to scale.
+                </p>
+              </div>
+              <div class="project-footer">
+                <span>Svelte / Skeleton / Tailwind CSS</span>
+                <a href="https://open-power.co.uk/">Live</a>
+              </div>
+            </article>
+
+            <article class="project-card">
+              <div>
+                <p class="project-kicker">Community Platform / Crypto</p>
+                <h3>The Birb Nest</h3>
+                <p>
+                  A sleek platform for a crypto community, bringing together
+                  resources, insights, and tools in one place.
+                </p>
+              </div>
+              <div class="project-footer">
+                <span>Svelte / SvelteKit / Tailwind CSS</span>
+                <a href="https://www.thebirbnest.com/">Live</a>
+              </div>
+            </article>
+
+            <article class="project-card">
+              <div>
+                <p class="project-kicker">Focus App / PWA</p>
+                <h3>LockIn</h3>
+                <p>
+                  A social focus app built for hard focus with timers, rooms,
+                  live leaderboards, and accountability.
+                </p>
+              </div>
+              <div class="project-footer">
+                <span>Svelte / Lucide / Supabase</span>
+                <a href="https://lockinn.space/">Live</a>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section class="section toolbox" id="toolbox" aria-labelledby="toolbox-title">
+          <div class="section-heading">
+            <p class="eyebrow">Toolbox</p>
+            <h2 id="toolbox-title">Built with</h2>
+          </div>
+          <ul class="tag-list">
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+            <li>Svelte</li>
+            <li>SvelteKit</li>
+            <li>React</li>
+            <li>Swift</li>
+            <li>Tailwind CSS</li>
+            <li>Skeleton</li>
+            <li>GSAP</li>
+            <li>Three.js</li>
+            <li>Supabase</li>
+            <li>PostgreSQL</li>
+            <li>GraphQL</li>
+            <li>Figma</li>
+            <li>Blender</li>
+            <li>Aseprite</li>
+          </ul>
+        </section>
+      </main>
+
+      <footer class="site-footer" id="contact">
+        <p>Building thoughtful web experiences.</p>
+        <div>
+          <a href="https://x.com/moonlike_tech">X</a>
+          <a href="https://www.figma.com/@mahsamirmiran">Figma</a>
+          <a href="https://github.com/mahzzaa">GitHub</a>
+        </div>
+      </footer>
+    </div>
+    <script src="./shader.js"></script>
+  </body>
+</html>
